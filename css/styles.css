@@ -1,0 +1,59 @@
+
+/* колір основного  тексту */
+color: #212121
+
+/* колір вторинного тексту */
+color: #757575;
+
+/* синій колір */
+color: #2196F3;
+
+/* Фон секції hero */
+color: #2F303A;
+
+/* Фон секції Команда */
+background: #F5F4FA;
+
+/* Колір телефону та пошти у футері */
+color: rgba(255, 255, 255, 0.6);
+
+/* Колір тексту всередині кнопки */
+color: #FFFFFF;
+
+
+:root {
+--
+
+}
+
+/* LIST  */
+
+.list{
+    list-style: none;
+
+}
+
+body{
+    background: #FFFFFF;
+    color: #212121
+}
+
+/* header */
+
+.header{
+    display: flex;
+    text-align: center;
+}
+.header-nav{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+}
+
+.header-logo{
+    text-decoration: none;
+    margin-left: 215px;
+}
+
+.he
